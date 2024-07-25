@@ -6,8 +6,7 @@ export default function Footer() {
     <div id='contact' className='py-5 bg-primary'>
         <Container className="text-white">
             <p className='font-semibold text-[24px] mb-5'>Contact Information</p>
-            <p className='mb-4'>3, Omosola Adeleke Street, Kosofe, Lagos, Nigeria</p>
-            <p>+234 9064576893</p>
+            <p className='mb-4'>subomi@solidheight.com</p>
             <div className='py-3 mt-4'>
                 <p className='font-semibold text-[24px]'>Links</p>
                 <div className='grid gap-3 pt-4 xl:flex'>

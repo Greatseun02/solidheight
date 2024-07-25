@@ -23,8 +23,13 @@ h1, h2, h3, h4, h5, h6{
 .hero{
   background-image: url("./assets/beachhouse.jpeg");
   background-blend-mode:color;
-  
   background-repeat: no-repeat;
+}
+
+@media (min-width:1280px) {
+  .hero{
+    background-size: cover;
+  }
 }
 
 .about-details div{
